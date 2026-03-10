@@ -1,91 +1,38 @@
-# Red Runner
+# Lab 01 - Khám phá dự án RedRunner
 
-Red Runner, Awesome Platformer Game.
+## ## Thông tin sinh viên
+- **Họ tên**: Nguyễn Thị Trường Nga
+- **MSSV**: 2312697
+- **Lớp**: CTK47A
 
-It is now free and open source and always will be. :clap: :tada:
+## ## Mô tả
+Bài thực hành Lab 01 môn **Game 2D Development with Unity**.
+Khám phá và phân tích dự án game RedRunner – một Platformer 2D mã nguồn mở được phát triển bởi Bayat Games.
 
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
-| --------------- | -------- | ----------- |
+## ## Các thay đổi đã thực hiện
+1. Thay đổi tốc độ chạy: 8 -> 15
+2. Thay đổi lực nhảy: 12 -> 24
+3. Thay đổi trọng lực: 1.5 -> 0.5
+4. Thêm Coin vào scene tại vị trí: x = -42,24; y =6.41
 
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzcyNzg3Mi5wbmc=/original/AU5pWY.png" />
-</p>
+## ## Screenshots
+### 1. Thay đổi thông số (Tốc độ, Lực nhảy, Trọng lực)
+**Giá trị gốc:**
+![Giá trị gốc](Screenshots/giatrigoc_tocdo9_lucnhay12_trongluc0,5.png)
 
-[:camera: See Screenshots](#screenshots)
+**Giá trị mới:**
+![Giá trị mới](Screenshots/giatrimoi_tocdo15_lucnhay24_trongluc3.png)
 
-[:movie_camera: **See the Trailer**](https://youtu.be/MO2yJhgtMes)
+### 2. Thêm vật phẩm (Coin)
+![Thêm Coin](Screenshots/chencoin.png)
 
-## Getting Started
 
-Follow the below instructions to get started with Red Runner source code:
 
-1. [Make sure you have all Requirements](#requirements)
-2. [Download Source Code](#download)
-3. Open Project in Unity and Enjoy!
+## ## Kiến thức đã học được
+1. Biết cách clone và mở một dự án Unity từ GitHub.
+2. Hiểu cấu trúc thư mục của một dự án Game 2D.
+3. Cách chỉnh sửa các thông số vật lý trong Inspector của Unity.
+4. Cách quản lý phiên bản và commit thay đổi bằng Git.
+5. Sử dụng Markdown để viết báo cáo chuyên nghiệp.
 
-## Requirements
-
-Make sure you have the below requirements before starting:
-
-- [Unity Game Engine](https://unity3d.com) version **6000.2.6f2 (Unity 6)**
-- Basic Knowledge about Unity and C#
-
-## Download
-
-You can get access to Red Runner source code by using one of the following ways:
-
-- [:sparkles: Download Source Code](https://github.com/BayatGames/RedRunner/archive/master.zip)
-- [:fire: Download Source Code from Itch.io](https://bayat.itch.io/red-runner)
-- Clone the repository locally:
-
-```bash
-git clone https://github.com/BayatGames/RedRunner.git
-```
-
-Also you can the build version of the Red Runner using the following ways:
-
-- [:star: Download from Itch.io](https://bayat.itch.io/red-runner)
-
-## Screenshots
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2NS5wbmc=/original/HipFLL.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2MC5wbmc=/original/mb636l.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc2OS5wbmc=/original/UyNp4U.png" />
-</p>
-
-<p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTU4NTg4LzczMjc3My5wbmc=/original/RAoMpO.png" />
-</p>
-
-## Credits
-
-- Graphics: [Free Platform Game Assets](https://bayat.itch.io/platform-game-assets)
-- Save System: [Save Game Pro - Save Everything](https://bayat.itch.io/save-game-pro-save-everything)
-- Game Engine: [Unity](https://unity3d.com/)
-- Thanks to all of the game development community for their awesome help.
-
-## Related
-
-- [Awesome Unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-- [Games on GitHub](https://github.com/leereilly/games/) - 🎮 A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-- [GameDev Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
-- [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - 📚 Library of all kind of scripts, snippets & shaders for Unity.
-
-## Resources
-
-[:rocket: Patreon](https://www.patreon.com/BayatGames)
-
-[:newspaper: Support and News](https://github.com/BayatGames/Support)
-
-## License
-
-MIT @ [Bayat Games](https://github.com/BayatGames)
-
-Made with :heart: by [Bayat Games](https://github.com/BayatGames)
+---
